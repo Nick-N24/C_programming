@@ -1,0 +1,33 @@
+Alumni,Male,1931,225,Dawgs
+Badin,Female,1897,140,Bullfrogs
+Baumer,Male,2019,250,Buccaneers
+Breen-Phillips,Female,1939,192,Babes
+Carroll,Male,1967,102,Vermin
+Cavanaugh,Female,1936,211,Chaos
+Dillon,Male,1931,290,Big Red
+Duncan,Male,2008,232,Highlanders
+Dunne,Male,2016,221,Sentinels
+Farley,Female,1947,216,Angels
+Fisher,Male,1952,183,Green Wave
+Flaherty,Female,2016,226,Bears
+Howard,Female,1924,154,Ducks
+Johnson,Female,2020,225,Valkyries
+Keenan,Male,1957,256,Knights
+Keough,Male,1996,271,Kangaroos
+Knott,Male,1988,240,Juggerknotts
+Lewis,Female,1965,279,Chicks
+Lyons,Female,1925,183,Lions
+McGlinn,Female,1997,284,Shamrocks
+Morrissey,Male,1925,232,The Manor
+O'Neill,Male,1996,266,Angry Mob
+Pangborn,Female,1955,280,Phoxes
+Pasquerilla East,Female,1981,256,Pyros
+Pasquerilla West,Female,1981,258,Purple Weasels
+Ryan,Female,2009,267,Wildcats
+St. Edward's,Male,1929,158,Gentlemen
+Siegfried,Male,1988,240,Ramblers
+Sorin,Male,1888,146,Otters
+Stanford,Male,1957,234,Griffins
+Walsh,Female,1909,190,Wild Women
+Welsh,Female,1997,281,Whirlwinds
+Zahm,Male,1937,202,Zahmbies
