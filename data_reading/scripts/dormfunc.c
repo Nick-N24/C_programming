@@ -1,4 +1,4 @@
-// Nicholas Newton nnewton2 Exam2 Function file
+// Function file
 // dormfunc.c
 
 #include "dormfunc.h"
